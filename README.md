@@ -1,3 +1,9 @@
+**Team Members:** 
+
+    * Siddharth Gautam 
+    * Shankhanil Borthakur
+
+
 # Mail Scheduler App
 
 
